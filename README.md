@@ -1,2 +1,2 @@
 # SimplePlayer
-这是一个简单的快速播放器
+&emsp;&emsp;学习过程中的Demo案例练手

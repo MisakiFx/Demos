@@ -1,0 +1,2 @@
+# SimplePlayer
+&emsp;&emsp;这是一个简单的视频播放器Demo，利用Qt打造，主要学习Qt中QVideoWidget以及QMediaPlayer类的使用以及和滚动条的以及按键的配合。
